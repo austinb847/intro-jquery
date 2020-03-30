@@ -9,8 +9,6 @@ $(document).ready(function() {
         alert("This is a paragraph!");
       } else if (tag === "img") {
         alert("This is an image!!!");
-      } else {
-        alert("This is a different tag!");
       }
     });
   });
